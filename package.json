@@ -1,0 +1,22 @@
+{
+  "name": "twitter-youtube-bot",
+  "version": "1.0.0",
+  "description": "A bot that tweets when specified YouTube channels go live.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "twitter",
+    "youtube",
+    "bot",
+    "live-stream",
+    "tweet"
+  ],
+  "author": "Riotcoke",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "twitter-api-v2": "^1.10.0"
+  }
+}
