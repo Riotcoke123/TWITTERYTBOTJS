@@ -1,0 +1,13 @@
+{
+  "API_KEY": "your-twitter-api-key",
+  "API_KEY_SECRET": "your-twitter-api-secret-key",
+  "ACCESS_TOKEN": "your-twitter-access-token",
+  "ACCESS_TOKEN_SECRET": "your-twitter-access-token-secret",
+  "BEARER_TOKEN": "your-twitter-bearer-token",
+  "YOUTUBE_API_KEY": "your-youtube-api-key",
+  "CHANNEL_IDS": [
+    "channel-id-1",
+    "channel-id-2",
+    "channel-id-3"
+  ]
+}
