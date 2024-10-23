@@ -24,7 +24,6 @@
     <h3>1. Clone the Repository</h3>
     <pre>git clone https://github.com/Riotcoke123/TWITTERYTBOTJS.git
 cd TWITTERYTBOTJS</pre>
-
     <h3>2. Install Dependencies</h3>
     <p>Make sure to install the required packages:</p>
     <pre>npm install</pre>
