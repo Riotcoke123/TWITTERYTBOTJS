@@ -7,11 +7,6 @@
 <body>
     <h1>TWITTERYTBOTJS</h1>
     <p><strong>TWITTERYTBOTJS</strong> is a Node.js bot that automatically monitors specified YouTube channels for live streams. When any of the configured channels go live, the bot posts a tweet to your Twitter account announcing that the channel is now live. This project leverages the Twitter API (v2) and YouTube Data API.</p>
-    <h2>Package and Author</h2>
-    <ul>
-        <li><strong>Package:</strong> TWITTERYTBOTJS</li>
-        <li><strong>Author:</strong> Riotcoke</li>
-    </ul>
     <h2>Features</h2>
     <ul>
         <li>Automatically monitor multiple YouTube channels for live status.</li>
