@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <img src="https://github.com/user-attachments/assets/26d061f4-daf3-40a7-b014-633cea139d06" alt="X logo" width="200" height="200" />
     <h1>TWITTERYTBOTJS</h1>
     <p><strong>TWITTERYTBOTJS</strong> is a Node.js bot that automatically monitors specified YouTube channels for live streams. When any of the configured channels go live, the bot posts a tweet to your Twitter account announcing that the channel is now live. This project leverages the Twitter API (v2) and YouTube Data API.</p>
     <h2>Features</h2>
